@@ -11,4 +11,4 @@
 - [학습률 최적화, 군집 분석 구현, Cost Function 구현](https://colab.research.google.com/github/ehdduqk8207/-/blob/master/3%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C_%EC%99%84%EB%A3%8C.ipynb)
 
 ## 4주차 과제 (2020.06.12)
-- [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산]
+- [딥러닝 용어 정리, 클론 코딩, 딥러닝 순전파 & 역전파 계산](https://colab.research.google.com/drive/18W0RQcPOle7LeY9E7qcQmGOIY518oe0s#scrollTo=kr0HVRk8fOom)
